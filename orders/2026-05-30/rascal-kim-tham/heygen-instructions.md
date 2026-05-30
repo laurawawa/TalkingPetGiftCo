@@ -6,6 +6,10 @@ Status: Draft for approval, do not generate yet.
 
 Use `heygen-assets/selected-rascal-heygen.jpg`.
 
+Verified GitHub raw URL:
+
+`https://raw.githubusercontent.com/laurawawa/TalkingPetGiftCo/main/orders/2026-05-30/rascal-kim-tham/heygen-assets/selected-rascal-heygen.jpg`
+
 Why: best close-up, strong eye visibility, clear face, and suitable framing for a talking pet video.
 
 ## HeyGen Setup
