@@ -6,6 +6,10 @@ Status: Draft for approval, do not generate yet.
 
 Use `heygen-assets/selected-rocco-nala-heygen.jpg`.
 
+Verified GitHub raw URL:
+
+`https://raw.githubusercontent.com/laurawawa/TalkingPetGiftCo/main/orders/2026-05-30/rocco-nala-jeno-berta/heygen-assets/selected-rocco-nala-heygen.jpg`
+
 Why: best available image showing both dogs together, cropped to remove phone UI and text-message context. Note that the darker dog is closest to camera and will likely be the main animated face.
 
 ## HeyGen Setup
